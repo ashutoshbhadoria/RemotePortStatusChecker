@@ -1,0 +1,19 @@
+{
+  "hosts": [
+    {
+      "hostname": "google.com",
+      "ports": [
+        443,
+        420
+      ]
+    },
+    {
+      "hostname": "facebook.com",
+      "ports": [
+        443,
+        80,
+        69
+      ]
+    }
+  ]
+}
