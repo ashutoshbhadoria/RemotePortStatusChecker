@@ -1,0 +1,28 @@
+{
+  "name": "remote-port-status-checker",
+  "version": "1.0.0",
+  "description": "A configurable utility to test if local or remote ports on a host are reachable.",
+  "main": "index.js",
+  "dependencies": {
+    "is-reachable": "^5.0.0",
+    "is-port-reachable": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashutoshbhadoria/RemotePortStatusChecker.git"
+  },
+  "keywords": [
+    "port",
+    "tcp"
+  ],
+  "author": "Ashutosh Bhadoria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashutoshbhadoria/RemotePortStatusChecker/issues"
+  },
+  "homepage": "https://github.com/ashutoshbhadoria/RemotePortStatusChecker#readme"
+}
